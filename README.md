@@ -119,7 +119,7 @@
   </section>  <section class="pricing">
     <h2>Pricing</h2>
     <div class="price-plan">Basic Profile – Free</div>
-    <div class="price-plan">Premium NFC Card – 10 BHD (One-time)</div>
+    <div class="price-plan">Premium NFC Card – 20 BHD (One-time)</div>
     <div class="price-plan">Pro Analytics & Branding – 2 BHD/month</div>
   </section>  <section>
     <h2>Create Your Profile</h2>
